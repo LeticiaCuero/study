@@ -1,1 +1,1 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/username/repo)
+https://img.shields.io/badge/:badgeContent?style=flat&logo=java&label=JAVA&labelColor=ED8B00
